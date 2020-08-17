@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### - enthusiast about red teaming and advanced maleware development 
+#### - the one who writes techniques at 0xsp.com 😄
+#### - love to convert ideas into hacks 
+#### - what else ? founder of 0xsp mongoose project ! give it try ⚡
+
 <!--
 **lawrenceamer/lawrenceamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
