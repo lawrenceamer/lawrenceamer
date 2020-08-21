@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 #### - enthusiast about red teaming and advanced maleware development 
+#### - vulnerability researching 🌱
 #### - the one who writes techniques at 0xsp.com 😄
 #### - love to convert ideas into hacks 
 #### - what else ? founder of 0xsp mongoose project ! give it try ⚡
