@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/twitter/follow/zux0x3a?label=follow&style=social">
+
 #### - enthusiast about red teaming and advanced maleware development 
 #### - vulnerability researching 🌱
 #### - the one who writes techniques at 0xsp.com 😄
