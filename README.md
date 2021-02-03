@@ -1,7 +1,5 @@
-### Hi there 👋
-
-[<img src="https://img.shields.io/twitter/follow/zux0x3a?label=follow&style=social">](https://twitter.com/zux0x3a)
 [![Ivan Šincek's github stats](https://github-readme-stats.vercel.app/api?username=lawrenceamer&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://img.shields.io/twitter/follow/zux0x3a?label=follow&style=social">](https://twitter.com/zux0x3a)
 
 #### - enthusiast about red teaming and advanced maleware development 
 #### - vulnerability researching 🌱
