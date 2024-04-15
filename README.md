@@ -1,26 +1,56 @@
-[![Lawrence Amer's github stats](https://github-readme-stats.vercel.app/api?username=lawrenceamer&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[<img src="https://img.shields.io/twitter/follow/zux0x3a?label=follow&style=social">](https://twitter.com/zux0x3a)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
-#### - enthusiast about red teaming and advanced maleware development 
-#### - vulnerability researching 🌱
-#### - the one who writes techniques at 0xsp.com 😄
-#### - love to convert ideas into hacks 
-#### - what else ? founder of 0xsp mongoose project ! give it try ⚡
 
-<!--
-**lawrenceamer/lawrenceamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://0xsp.com/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+<a href="https://twitter.com/Ipiyushmalhotra">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Support my open-source projects by donation : 
+---
 
-https://donorbox.org/support-0xsp
+<h2> 👨🏻‍💻 &nbsp;Who AMI </h2>
+
+```yaml
+name: Lawrence Amer 
+located_in: Netherlands
+current_job: Red Team / Offsec Expert 
+Certifications:
+  [
+    "OSCP ",
+    "OSEP",
+    "OSCE",
+    "CRTO"
+  ]
+
+fields_of_interests:
+  [
+    "Malware Development ",
+    "Security Research ",
+    "Threat Hunting",
+  ]
+
+```
+  
+---  
+  
+<h2> 🚀 &nbsp; I code to learn and enjoy the following </h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://www.svgrepo.com/show/373548/delphi.svg" alt="delphi" width="45" height="45"/> 
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
