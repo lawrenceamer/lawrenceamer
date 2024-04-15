@@ -23,7 +23,7 @@ located_in: Netherlands
 current_job: Red Team / Offsec Expert 
 Certifications:
   [
-    "OSCP ",
+    "OSCP",
     "OSEP",
     "OSCE",
     "CRTO"
