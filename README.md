@@ -26,7 +26,8 @@ Certifications:
     "OSCP",
     "OSEP",
     "OSCE",
-    "CRTO"
+    "CRTO",
+    "CARTE" 
   ]
 
 fields_of_interests:
@@ -49,6 +50,7 @@ fields_of_interests:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://www.svgrepo.com/show/373548/delphi.svg" alt="delphi" width="45" height="45"/> 
+<img src="https://www.svgrepo.com/show/374210/zig.svg" alt="Zig" width="45 height="45" /> 
 </p>
 
 <p align="center">
